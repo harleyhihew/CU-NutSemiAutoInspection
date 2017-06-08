@@ -10,5 +10,6 @@ def CreateSLRTable(trans,state,Terms,nonTerms):
     mixTnt = Terms+nonTerms
     for s in state:
         
+        dsfsdkjsdjfsdf
             
         
